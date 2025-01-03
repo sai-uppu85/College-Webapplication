@@ -13,3 +13,10 @@ This is a web application designed for managing and displaying essential informa
 1. Clone this repository to your local machine:  
    ```bash
    git clone https://github.com/sai-uppu85/College-Webapplication.git
+## Project Files
+1. [index.html](final/index.html)
+2. [about.html](final/about.html)
+3. [courses.html](final/courses.html)   
+4. [contact.html](final/contact.html)
+5. [app.js](final/js/app.js)
+
